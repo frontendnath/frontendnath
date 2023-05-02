@@ -1,5 +1,5 @@
 <h2> Hi, I'm Nathaniel Joseph! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media3.giphy.com/media/wvQIqJyNBOCjK/giphy.gif?cid=ecf05e47pgzrg6r3xfrbqbryqq0ywjgyvu04g01ekabhs0c0&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="230">
+<img align='right' src="https://avatars.githubusercontent.com/u/132194342?v=4" width="230">
 <p><em>Software Enginner at <a href="https://nou.edu.ng/">National Open University of Nigeria</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br></em></p>
 
 [![Twitter: nathanjoe_dev](https://img.shields.io/twitter/follow/nathanjoe_dev?style=social)](https://twitter.com/nathanjoe_dev)
