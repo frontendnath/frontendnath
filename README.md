@@ -11,20 +11,24 @@
 ```javascript
 const aboutMe = {
   name: "Nathaniel Joseph",
+  
   pronouns: "He" | "His",
+  
   techStack: "Frontend Development",
+  
   codingLanguages: [
     "JavaScript",
     "HTML",
     "CSS"
-  ]
+  ],
+  
   toolsAndFrameworks: [
     "Git",
     "Github",
     "Bootstrap",
     "Sass"
   ],
-}
+};
 ```
 
 <em><b>I love connecting with different people</b> <br /> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
