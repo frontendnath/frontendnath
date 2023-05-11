@@ -4,17 +4,26 @@
 
 [![Twitter: nathanjoe_dev](https://img.shields.io/twitter/follow/nathanjoe_dev?style=social)](https://twitter.com/nathanjoe_dev)
 [![Linkedin: nathanJoseph](https://img.shields.io/badge/-NathanJoseph-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nathan-joseph-91790a274/)](https://www.linkedin.com/in/nathan-joseph-91790a274/)
-[![GitHub frontendnath](https://img.shields.io/github/followers/frontendnath?label=follow&style=social)](https://github.com/frontendnath)
 
 
 ## A little more about me...  
 
 ```javascript
-const nathanielJoseph = {
+const aboutMe = {
+  name: "Nathaniel Joseph",
   pronouns: "He" | "His",
-  code: [Javascript, HTML, CSS],
-  tools: [Git, Github, Bootstrap, Tailwind CSS, Sass],
- challenge: "I am doing the #100DaysOfCode challenge focused on JavaScript and Typescript"
+  techStack: "Frontend Development",
+  codingLanguages: [
+    "JavaScript",
+    "HTML",
+    "CSS"
+  ]
+  toolsAndFrameworks: [
+    "Git",
+    "Github",
+    "Bootstrap",
+    "Sass"
+  ],
 }
 ```
 
