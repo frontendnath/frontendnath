@@ -1,5 +1,5 @@
 <h2> Hi, I'm Nathaniel Joseph! 👋</h2>
-<img align='right' src="https://avatars.githubusercontent.com/u/132194342?v=4" width="230">
+<img align='right' src="https://avatars.githubusercontent.com/u/132194342?v=4" width="100">
 <!-- <p><em>Software Enginner at <a href="https://nou.edu.ng/">National Open University of Nigeria</a></br></em></p> -->
 
 [![Twitter: nathanjoe_dev](https://img.shields.io/twitter/follow/nathanjoe_dev?style=social)](https://twitter.com/nathanjoe_dev)
